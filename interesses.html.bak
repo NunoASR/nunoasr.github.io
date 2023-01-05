@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Interesses</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Portfólio</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="interests.html">Inglês</a></li>
+							<li class="active"><a href="#">Português</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<h1>Interesses</h1>
+									<p>“A única habilidade competitiva de longo prazo é a capacidade de aprender.” - Seymour Papert </p>
+								</header>
+								<div class="image main"><img src="images/mechanics.jpg" alt="" /></div>
+                                <p> A minha formação original é em Engenharia Mecânica. Depois estudei Controlo de Sistemas, uma área interdisciplinar focada em perceber, estimar e controlar uma grande variedade de sistemas, em particular sistemas mecatrónicos. Finalmente, na minha tese explorei mergir Controlo com Processos Gaussianos, uma forma de <em>Machine Learning</em>. <br /> 
+								Para além de uma formação forte em matemática e física, bem como experiência de programação, abaixo apresento uma lista de tópicos nos quais de alguma forma trabalhei nos últimos anos:</p>
+								
+								<ul>
+									<li>Teoria de Controlo</li>
+									<li>Controlo PID</li>
+									<li><em>MPC (Model Predictive Control)</em></li>
+									<li>Controlo Robusto</li>
+									<li>Identificação de Sistemas</li>
+									<li>Robótica</li>
+									<li>Mecatrónica</li>
+									<li><em>Machine Learning</em></li>
+									<li>Processos Gaussianos</li>
+									<li><em>Neural Networks</em></li>
+									<li>Sistemas Fuzzy</li>									
+								</ul>
+                            
+							<p> Programar foi sempre um interesse pessoal. Aqui estão as linguas com que trabalhei:</p>
+							<ul>
+								<li>MATLAB/Simulink/Stateflow</li>
+								<li>Python</li>
+								<li>R<li>
+								<li>C</li>
+								<li>SQL/SQLite</li>
+							</ul>
+							
+                            
+                            </section>
+
+					</div>
+
+				<!-- Footer -->
+                <footer id="footer">
+
+                    <section class="split contact">
+                        <section class="alt">
+                            <h3>De</h3>
+                            <p>Portugal</p>
+                        </section>
+                        <section class="alt">
+                            <h3>Nascimento</h3>
+                            <p>1998</p>
+                        </section>
+                        <section>
+                            <h3>Email</h3>
+                            <p><a href="#">nuno.secorodrigues@outlook.pt</a></p>
+                        </section>
+                        <section>
+                            <h3>Redes Sociais</h3>
+                            <ul class="icons alt">
+                                <li><a href="https://www.linkedin.com/in/nuno-ant%C3%B3nio-seco-rodrigues-728522216/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                                <!--<li><a href="https://www.facebook.com/profile.php?id=100013610492418" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>-->
+                                <li><a href="https://github.com/NunoASR" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+                                <!--<li><a href="https://www.instagram.com/nunoasr/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>-->
+                            </ul>
+                        </section>
+                    </section>
+                </footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

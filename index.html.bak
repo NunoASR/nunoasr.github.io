@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Nuno Rodrigues</h1>
+						<p>Hi, I am an Engineer with experience in the fields of Mechanics/Control/Automation. This website is meant to be an extension of my resume with copies of certificates and anything else concerning my personal portfolio.</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">My Portfolio</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="#">>English </a></li>
+							<li><a href="index_pt.html">>Portuguese </a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="#">TU Delft <br />
+									MSc Systems & Control</a></h2>
+									<p>I took my Masters Degree in the Netherlands, where I graduated <em>Cum Laude</em> from the <em> Technical University of Delft</em>. Click bellow to find my diploma, as well as further academic details about my international experience as a student in the MSc Systems & Control. </p>
+								</header>
+								<a href="images/delftcanal.jpg" class="image main"><img src="images/delftcanal.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="tud.html" class="button large">See more</a></li>
+								</ul>
+							</article>
+
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="#">IST University of Lisbon <br /> BSc Mechanical Engineering</a></h2>
+									<p>I first attended university in Lisbon, where I completed my Bachelor's Degree at <em>IST</em>, the Engineering Faculty from the <em>University of Lisbon</em>. Click bellow find my diploma, as well as further academic details about my experience as a young BSc student.  </p>
+								</header>
+								<a href="images/lisboa.jpg" class="image main"><img src="images/lisboa.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="ist.html" class="button large">See more</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+						<!-- Posts -->
+						<section class="posts">
+							<article>
+								<header>
+									<h2><a href="#">Languages</a></h2>
+								</header>
+								<a href="images/books.jpg" class="image fit"><img src="images/books.jpg" alt="" /></a>
+								<p>Find out more about the languages I speak, certificates and general experience.</p>
+								<ul class="actions special">
+									<li><a href="language.html" class="button">See more</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+									<h2><a href="#">Interests</a></h2>
+								</header>
+								<a href="images/interests.jpg" class="image fit"><img src="images/interests.jpg" alt="" /></a>
+								<p>Find out more about my professional interests.</p>
+								<ul class="actions special">
+									<li><a href="interests.html" class="button">See more</a></li>
+								</ul>
+							</article>
+								
+							</section>
+
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+
+						<section class="split contact">
+							<section class="alt">
+								<h3>From</h3>
+								<p>Portugal</p>
+							</section>
+							<section class="alt">
+								<h3>Born</h3>
+								<p>1998</p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">nuno.secorodrigues@outlook.pt</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.linkedin.com/in/nuno-ant%C3%B3nio-seco-rodrigues-728522216/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<!-- <li><a href="https://www.facebook.com/profile.php?id=100013610492418" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li> -->
+									<li><a href="https://github.com/NunoASR" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+									<!-- <li><a href="https://www.instagram.com/nunoasr/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li> -->
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
