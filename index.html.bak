@@ -45,6 +45,18 @@
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
+									<h2><a href="#">Capgemini Engineering <br />
+									Engineering Consultant</a></h2>
+									<p>I lived in Belgium for a year, while working for <em>Cagemini Engineering</em>, between 2021 and 2022. Click below to find more. </p>
+								</header>
+								<a href="images/gent.jpg" class="image main"><img src="images/gent.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="capgemini.html" class="button large">See more</a></li>
+								</ul>
+							</article>
+
+							<article class="post featured">
+								<header class="major">
 									<h2><a href="#">TU Delft <br />
 									MSc Systems & Control</a></h2>
 									<p>I took my Masters Degree in the Netherlands, where I graduated <em>Cum Laude</em> from the <em> Technical University of Delft</em>. Click bellow to find my diploma, as well as further academic details about my international experience as a student in the MSc Systems & Control. </p>
@@ -58,7 +70,7 @@
 							<article class="post featured">
 								<header class="major">
 									<h2><a href="#">IST University of Lisbon <br /> BSc Mechanical Engineering</a></h2>
-									<p>I first attended university in Lisbon, where I completed my Bachelor's Degree at <em>IST</em>, the Engineering Faculty from the <em>University of Lisbon</em>. Click bellow find my diploma, as well as further academic details about my experience as a young BSc student.  </p>
+									<p>I first attended university in Lisbon, where I completed my Bachelors Degree at <em>IST</em>, the Engineering Faculty from the <em>University of Lisbon</em>. Click bellow find my diploma, as well as further academic details about my experience as a young BSc student.  </p>
 								</header>
 								<a href="images/lisboa.jpg" class="image main"><img src="images/lisboa.jpg" alt="" /></a>
 								<ul class="actions special">

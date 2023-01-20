@@ -41,11 +41,11 @@
 									<p>A Alameda Dom Afonso Henriques é um lugar icónico e é também a vista que contempla a entrada da universidade. </p>
 								</header>
 								<div class="image main"><img src="images/alameda.jpg" alt="" /></div>
-								<p> Carregue aqui para encontrar uma cópia digital do meu Diploma.  </p>
+								<p> Carregua abaixo para encontrar uma cópia digital do meu Diploma.  </p>
                                 <ul class="actions">
                                     <li><a href="ISTdiploma.pdf" class="button primary">Diploma</a></li>
                                 </ul>
-                                <p> Carregue aqui para ver a lista dos meus cursos e respetivas notas.  </p>
+                                <p> Carregua abaixo para ver a lista dos meus cursos e respetivas notas.  </p>
                                 <ul class="actions">
                                     <li><a href="ISTnotas.pdf" class="button">Courses</a></li>
                                 </ul>

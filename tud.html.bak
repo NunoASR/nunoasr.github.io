@@ -41,7 +41,7 @@
 									<p>Check out this library/study place, one of the iconic landmarks of the university. </p>
 								</header>
 								<div class="image main"><img src="images/tud_library.jpg" alt="" /></div>
-								<p> Click here to find a digital copy of my Master's Diploma.  </p>
+								<p> Click here to find a digital copy of my Masters Diploma.  </p>
                                 <ul class="actions">
                                     <li><a href="Diploma_TUD.pdf" class="button primary">Diploma</a></li>
                                     <li><a href="Diploma_TUD_sup.pdf" class="button">Diploma supplement</a></li>
@@ -50,7 +50,7 @@
                                 <ul class="actions">
                                     <li><a href="images/gradesTUD.jpg" class="button">Courses</a></li>
                                 </ul>
-                                <p> Click here to find my Master's Thesis project.  </p>
+                                <p> Click here to find my Masters Thesis project.  </p>
                                 <ul class="actions">
                                     <li><a href="Thesis.pdf" class="button">MSc Thesis</a></li>
                                 </ul>

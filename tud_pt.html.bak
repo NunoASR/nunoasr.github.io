@@ -41,16 +41,16 @@
 									<p>A livraria da Universidade é não só um dos principais locais de estudo dos alunos, mas também uma referência arquitetónica da universidade. </p>
 								</header>
 								<div class="image main"><img src="images/tud_library.jpg" alt="" /></div>
-								<p> Carregue abaixo para encontrar uma cópia do Diploma de Graduação.  </p>
+								<p> Carregua abaixo para encontrar uma cópia do Diploma de Graduação.  </p>
                                 <ul class="actions">
                                     <li><a href="Diploma_TUD.pdf" class="button primary">Diploma</a></li>
 									<li><a href="Diploma_TUD_sup.pdf" class="button">Suplemento</a></li>
                                 </ul>
-                                <p> Carregue abaixo para ver os cursos inviduais e as respectivas notas.  </p>
+                                <p> Carregua abaixo para ver os cursos inviduais e as respectivas notas.  </p>
                                 <ul class="actions">
                                     <li><a href="images/gradesTUD.jpg" class="button">Cursos</a></li>
                                 </ul>
-                                <p> Carregue abaixo para encontrar a minha Dissertação de Mestrado.  </p>
+                                <p> Carregua abaixo para encontrar a minha Dissertação de Mestrado.  </p>
                                 <ul class="actions">
                                     <li><a href="Thesis.pdf" class="button">Dissertação</a></li>
                                 </ul>
